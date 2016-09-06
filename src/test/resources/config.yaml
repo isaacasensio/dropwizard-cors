@@ -1,0 +1,6 @@
+corsConfiguration:
+  allowedOrigins: http://api.github.com
+  allowedHeaders: X-Requested-With,Content-Type,Accept,Origin
+  allowedMethods: OPTIONS,GET,PUT,POST,DELETE,HEAD,PATCH
+  preflightMaxAge: 1800
+  urlMapping: /with-cors
