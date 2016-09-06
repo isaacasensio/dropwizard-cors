@@ -1,4 +1,4 @@
-package com.github.isaacasensio;
+package com.github.isaacasensio.dropwizard.cors;
 
 import com.github.isaacasensio.dropwizard.cors.CorsConfiguration;
 import org.apache.commons.lang3.StringUtils;
