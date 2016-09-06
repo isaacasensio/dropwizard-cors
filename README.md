@@ -1,4 +1,8 @@
-A library  supports in [Dropwizard](http://dropwizard.io/) applications.
+Dropwizard CORS Bundle
+======================
+
+[![Build Status](https://travis-ci.org/isaacasensio/dropwizard-cors.svg?branch=master)](https://travis-ci.org/isaacasensio/dropwizard-cors)
+[![GitHub license](https://img.shields.io/github/license/isaacasensio/dropwizard-cors.svg?style=flat-square)](https://github.com/isaacasensio/dropwizard-cors/tree/master)
 
 
 A bundle that provides first class support for [CORS] (https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) in Dropwizard applications.
